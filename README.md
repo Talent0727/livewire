@@ -24,7 +24,6 @@ Contribute to the docs here: https://github.com/livewire/docs
 
 
 ## License
-
 Copyright © Caleb Porzio
 
 Laravel Livewire is open-sourced software licensed under the [MIT license](LICENSE.md).
